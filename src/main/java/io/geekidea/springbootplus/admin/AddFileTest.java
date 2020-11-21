@@ -1,4 +1,2 @@
-package io.geekidea.springbootplus.admin;
-
-public class AddFileTest {
+package io.geekidea.springbootplus.admin;public class AddFileTest {
 }
